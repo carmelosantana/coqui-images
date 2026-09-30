@@ -1,5 +1,5 @@
 {
-    "name": "carmelosantana/coqui-toolkit-images",
+    "name": "carmelosantana/coqui-images",
     "description": "AI image generation and library management toolkit for Coqui — generate, preview, tag, categorize, and search images across OpenAI and Ollama backends.",
     "type": "library",
     "license": "MIT",
