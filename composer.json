@@ -1,5 +1,5 @@
 {
-    "name": "carmelosantana/coqui-toolkit-images",
+    "name": "carmelosantana/coqui-images",
     "description": "AI image generation and library management toolkit for Coqui — generate, preview, tag, categorize, and search images across OpenAI and Ollama backends.",
     "type": "library",
     "license": "MIT",
@@ -29,6 +29,9 @@
         "carmelosantana/php-agents": ">=0.14",
         "pestphp/pest": "^3.0",
         "phpstan/phpstan": "^2.0"
+    },
+    "replace": {
+        "carmelosantana/coqui-toolkit-images": "self.version"
     },
     "autoload": {
         "psr-4": {

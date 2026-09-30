@@ -1,6 +1,6 @@
 # Coqui Toolkit Images
 
-`carmelosantana/coqui-toolkit-images` adds AI image generation and image-library tools to Coqui.
+`carmelosantana/coqui-images` adds AI image generation and image-library tools to Coqui.
 
 ## Features
 

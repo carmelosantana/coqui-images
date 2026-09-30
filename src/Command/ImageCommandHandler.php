@@ -146,7 +146,7 @@ final class ImageCommandHandler implements ToolkitCommandHandler, ToolkitCommand
         if ($tools === null) {
             $context->io->warning([
                 'The image toolkit is not currently available.',
-                'Install or enable `carmelosantana/coqui-toolkit-images`, then restart Coqui.',
+                'Install or enable `carmelosantana/coqui-images`, then restart Coqui.',
             ]);
             return;
         }
