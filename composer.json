@@ -30,6 +30,9 @@
         "pestphp/pest": "^3.0",
         "phpstan/phpstan": "^2.0"
     },
+    "replace": {
+        "carmelosantana/coqui-toolkit-images": "self.version"
+    },
     "autoload": {
         "psr-4": {
             "CarmeloSantana\\CoquiToolkitImages\\": "src/"
